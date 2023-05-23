@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript">
+		const url = 'https://cosmic-backbone-386318.rj.r.appspot.com/hashCodeServer';
+		const nome = 'luis';
+		const email = 'felipe@gmail.com';
+		const cpf = '0403.934550.941-144';
+		//DADOS FICTÍCIOS
+		const requestURL = `${url}?nome=${encodeURIComponent(nome)}&email=${encodeURIComponent(email)}&cpf=${encodeURIComponent(cpf)}`;
+
+		fetch(requestUrl, {
+		  method: 'POST',
+		  headers: {
+		    'Content-Type': 'application/json'
+		  }
+		})
+		  .then(response => {
+		    if (!response.ok) {
+		      throw new Error('Erro na requisição. Código de status: ' + response.status);
+		    }
+		    return response.json();
+		  })
+		  .then(data => {
+		    console.log(data);
+		    // Faça algo com a resposta do servidor
+		  })
+		  .catch(error => {
+		    console.error('Ocorreu um erro:', error);
+		  });
+
+
+	</script>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>

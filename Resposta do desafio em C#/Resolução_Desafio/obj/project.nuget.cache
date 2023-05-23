@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jdssc8kbObeb9rM8y//XqL9IQiPdWfAa34WFx+mxZ7DN4uqnX5JOeI/CPLPnY6CsFWrLrEbAC6TawV0YcX7fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanna\\OneDrive\\Área de Trabalho\\desafio\\Resposta do desafio em C#\\Resolução_Desafio\\Resolução_Desafio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

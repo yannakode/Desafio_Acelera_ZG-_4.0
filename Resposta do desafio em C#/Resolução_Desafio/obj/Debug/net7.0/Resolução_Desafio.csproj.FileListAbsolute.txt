@@ -1,0 +1,17 @@
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Resolução_Desafio.exe
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Resolução_Desafio.deps.json
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Resolução_Desafio.runtimeconfig.json
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Resolução_Desafio.dll
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Resolução_Desafio.pdb
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.csproj.AssemblyReference.cache
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.AssemblyInfoInputs.cache
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.AssemblyInfo.cs
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.dll
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\refint\Resolução_Desafio.dll
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.pdb
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.genruntimeconfig.cache
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\ref\Resolução_Desafio.dll
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yanna\Videos\asp net telegram\Resolução_Desafio\Resolução_Desafio\obj\Debug\net7.0\Resolução_Desafio.csproj.CopyComplete
